@@ -1,4 +1,4 @@
-# ExamplesDotNet
+# TimerExample
 
 Examples and experiments in .Net
 
